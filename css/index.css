@@ -183,6 +183,7 @@
 	font-weight: 400;
 	float: left;
 	display: block;
+
 	word-break: break-all;
 	
 }
@@ -246,4 +247,11 @@
 	left: 39.4%;
 	
 	
+}
+.bottom_content  p{
+	display: block;
+	float: right;
+}
+.bottom_content a{
+	color: #a9a9a9;
 }
